@@ -1,0 +1,32 @@
+.home_header{
+    display: flex;
+    justify-content: space-between;
+    background-color: purple;
+
+}
+
+.logo{
+    width: 20%;
+}
+
+/* img{
+    width: 20%;
+
+} */
+
+.link_line{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    gap: flex-grow;
+}
+
+.list-items{
+    padding: 20px    
+}
+.item-link{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
